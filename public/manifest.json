@@ -1,0 +1,21 @@
+{
+  "name": "MyGPT",
+  "short_name": "MyGPT",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "MyGPT",
+  "icons": [
+    {
+      "src": "/pwa.webp",
+      "sizes": "256x256",
+      "type": "image/webp"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://gpt.woka.ai"
+    }
+  ]
+}
